@@ -3,7 +3,7 @@
 
 You are allowed to use this code for educational purposes and for citation use the following paper:
 
-+ SeyedShenava, S., and Sajjad Asefi. "Tuning controller parameters for AGC of multi-source power system using SCA algorithm." Delta 2.B2 (2018): B2.
++ SeyedShenava, S., and Asefi, S. "Tuning controller parameters for AGC of multi-source power system using SCA algorithm." Delta 2.B2 (2018): B2.
 
 ### YouTube link of the project
 + Project's YouTube link: https://youtu.be/VTQJRqmlZ3o 
