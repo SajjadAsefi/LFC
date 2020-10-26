@@ -11,6 +11,10 @@ You are allowed to use this code for educational purposes and for citation use t
 ### Code files discription:
 Controller parameters tuning for load frequency control (matlab code) 
 
+The main paper I started my LFC simulation is:
+Mohanty, Banaja, Sidhartha Panda, and P. K. Hota. "Controller parameters tuning of differential evolution algorithm and its application to load frequency control of multi-source power system." International journal of electrical power & energy systems 54 (2014): 77-85.
+I recommend it (in addition to my own paper) for anyone who wants to start simulation in this area.
+
 I have simulated a multi-area system and applied SCA optimization algorithm for controller parameter selection. 
 I have analyzed controller's robustness by change in two different parameters of the system, R (governor speed regulation) and B (frequency bias parameter). In addition to HVDC link, I have considered SMES.
 A novel population-based optimization algorithm called Sine Cosine Algorithm (SCA) has been adopted to solve optimization of automatic load frequency control (LFC) of a realistic power system with multi-source power generation is presented.
